@@ -11,3 +11,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [FHEM Module to communicate with a Rotex HPSU](https://github.com/ahermann86/fhemHPSU)
 - [FHEM Modul für den quelloffenen Messenger "[Si]gnal - [Si]cherer Messenger](https://github.com/Quantum1337/32_SiSi.pm)
   - [Forum](https://forum.fhem.de/index.php/topic,84996.0)
+- [ALP-600 Sprechanlage](https://forum.fhem.de/index.php/topic,105275.0)
