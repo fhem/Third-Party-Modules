@@ -13,3 +13,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
   - [Forum](https://forum.fhem.de/index.php/topic,84996.0)
 - [ALP-600 Sprechanlage](https://forum.fhem.de/index.php/topic,105275.0)
 - [SkyQ](https://forum.fhem.de/index.php/topic,96017.0)
+- [39_VALVES - kleines Helferlein um Positionen von Heizungsthermostate auszuwerten](https://forum.fhem.de/index.php/topic,24658.0)
