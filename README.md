@@ -18,3 +18,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [hausautomatisierung.com FHEMWEB-Style](https://github.com/klein0r/fhem-style-haus-automatisierung)
 - [FHEM Docker Base](https://github.com/klein0r/fhem-docker)
 - [FHEM Hausautomatisierung.com Custom Helper](https://github.com/klein0r/fhem-ha-utils)
+- [AbstractTable FHEM Module](https://github.com/klein0r/fhem-abstracttable)
