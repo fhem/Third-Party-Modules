@@ -15,3 +15,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [SkyQ](https://forum.fhem.de/index.php/topic,96017.0)
 - [39_VALVES - kleines Helferlein um Positionen von Heizungsthermostate auszuwerten](https://forum.fhem.de/index.php/topic,24658.0)
 - [98_MSwitch](https://github.com/Byte009/Fhem-MSwitch)
+- [hausautomatisierung.com FHEMWEB-Style](https://github.com/klein0r/fhem-style-haus-automatisierung)
