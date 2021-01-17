@@ -20,3 +20,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [FHEM Hausautomatisierung.com Custom Helper](https://github.com/klein0r/fhem-ha-utils)
 - [AbstractTable FHEM Module](https://github.com/klein0r/fhem-abstracttable)
 - [ekey FHEM Module](https://github.com/klein0r/fhem-ekey)
+- [LaMetric FHEM Module](https://github.com/klein0r/fhem-lametric)
