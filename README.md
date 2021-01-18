@@ -27,3 +27,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [RenaultZE](https://forum.fhem.de/index.php/topic,116273.0)
 - [I2C Template für INA219](https://forum.fhem.de/index.php/topic,62045.msg550976.html#msg550976)
 - [fhempy Googlecast](https://forum.fhem.de/index.php/topic,116455.0)
+- [I2C_ADS1x1x für TI Analog/Digitalwandler (z.B. ADS1115)](https://forum.fhem.de/index.php/topic,114632.0)
