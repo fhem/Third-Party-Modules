@@ -22,3 +22,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [ekey FHEM Module](https://github.com/klein0r/fhem-ekey)
 - [LaMetric FHEM Module](https://github.com/klein0r/fhem-lametric)
 - [Tasmota FHEM Module](https://github.com/klein0r/fhem-tasmota)
+- [Modul für JVC D-ILA Heimkino Projektoren](https://forum.fhem.de/index.php/topic,108314.0.html)
