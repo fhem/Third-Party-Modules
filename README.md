@@ -26,3 +26,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [66_EPG.pm | TV Programm,Tabelle, FTUI](https://forum.fhem.de/index.php/topic,105015.0)
 - [RenaultZE](https://forum.fhem.de/index.php/topic,116273.0)
 - [I2C Template für INA219](https://forum.fhem.de/index.php/topic,62045.msg550976.html#msg550976)
+- [fhempy Googlecast](https://forum.fhem.de/index.php/topic,116455.0)
