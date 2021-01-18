@@ -29,3 +29,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [fhempy Googlecast](https://forum.fhem.de/index.php/topic,116455.0)
 - [I2C_ADS1x1x für TI Analog/Digitalwandler (z.B. ADS1115)](https://forum.fhem.de/index.php/topic,114632.0)
 - [Unitymedia Horizon Box](https://forum.fhem.de/index.php/topic,71018.msg804289.html)
+- [Anbindung an CUPS](https://github.com//marvin78/FHEM-CUPS_Switch/)
