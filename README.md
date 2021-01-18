@@ -23,3 +23,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [LaMetric FHEM Module](https://github.com/klein0r/fhem-lametric)
 - [Tasmota FHEM Module](https://github.com/klein0r/fhem-tasmota)
 - [Modul für JVC D-ILA Heimkino Projektoren](https://forum.fhem.de/index.php/topic,108314.0.html)
+- [66_EPG.pm | TV Programm,Tabelle, FTUI](https://forum.fhem.de/index.php/topic,105015.0)
