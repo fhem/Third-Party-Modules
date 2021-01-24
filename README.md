@@ -32,3 +32,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Anbindung an CUPS](https://github.com//marvin78/FHEM-CUPS_Switch/)
 - [Module für FHEMDuino](https://github.com/viegener/fhemduino_modules)
 - [FHEM-Abfall](https://github.com/uniqueck/fhem-abfall/)
+- [98_myStrom.pm - myStrom WLAN Energy Control Switch](https://forum.fhem.de/index.php/topic,39933.0)
