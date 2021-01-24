@@ -33,3 +33,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Module für FHEMDuino](https://github.com/viegener/fhemduino_modules)
 - [FHEM-Abfall](https://github.com/uniqueck/fhem-abfall/)
 - [98_myStrom.pm - myStrom WLAN Energy Control Switch](https://forum.fhem.de/index.php/topic,39933.0)
+- [Module für VestelTV (Telefunken, Graetz, Toshiba, Medion)](https://forum.fhem.de/index.php/topic,117397.0)
