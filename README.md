@@ -36,5 +36,5 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Module für VestelTV (Telefunken, Graetz, Toshiba, Medion)](https://forum.fhem.de/index.php/topic,117397.0)
 - [Influx Kapacitor](https://forum.fhem.de/index.php/topic,118208.0)
 - [IRBlaster](https://github.com/viegener/Telegram-fhem/tree/master/IrBlaster)
-- [Modul für Wifi-Radios mit Frontier Silicon Chipsatz](https://github.com/mumpitzstuff/fhem-SIRD)
+- [Modul für Wifi-Radios mit Frontier Silicon Chipsatz](https://github.com/mumpitzstuff/fhem-SIRD) &middot; [Forum](https://forum.fhem.de/index.php/topic,79168.0.html)
 - [57_GCALVIEW Google Kalender Viewer (+Abfall Kalender)](https://github.com/mumpitzstuff/fhem-GCALVIEW) &middot; [Forum](https://forum.fhem.de/index.php/topic,77502.0.html)
