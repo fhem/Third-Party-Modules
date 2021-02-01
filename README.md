@@ -41,3 +41,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [APCUPSD - Abfrage von USV-Daten über www.apcupsd.com](https://forum.fhem.de/index.php/topic,38382.0.html)
 - [39_DLCD.pm - kleines Hilfsmodul um Datenzeilen für serial LCD vorzubereiten v2.0](https://forum.fhem.de/index.php/topic,24519.0.html)
 - [Modul zur Abfragen eines MBus Netzwerks](https://forum.fhem.de/index.php/topic,45212.0.html)
+- [BleTagBattery - Update batteryLevel for all BLE tags](https://github.com/mumpitzstuff/fhem-BleTagBattery)
