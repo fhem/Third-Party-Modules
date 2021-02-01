@@ -44,3 +44,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [BleTagBattery - Update batteryLevel for all BLE tags](https://github.com/mumpitzstuff/fhem-BleTagBattery)
 - [Alternative zu 98_average](https://github.com/mumpitzstuff/fhem-average)
 - [ParrotFlowerPower - Plant Sensor](https://github.com/mumpitzstuff/fhem-ParrotFlowerPower)
+- [Spritpreismodule](https://github.com/pljakobs/fhem_spritpreis_module)
