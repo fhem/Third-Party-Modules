@@ -58,3 +58,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [DBPlan ist a Fhem modul, which enables Fhem to handle public traffic timetables fpr given routes](https://github.com/jowiemann/DBPlan-for-Fhem)
 - [ArtNet and DMX modules for FHEM](https://github.com/xusader/fhem-artdmx)
 - [Departure is a fhem modul, which creates readings for the next departures of a station.](https://github.com/uniqueck/fhem-departure)
+- [Schaltsteckdose SOP112](https://forum.fhem.de/index.php/topic,30501.msg383894.html#msg383894)
