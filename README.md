@@ -57,3 +57,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [FHEM module for the Waterkotte Resümat CD4](https://github.com/mwllgr/fhem-waterkotte-resuemat-cd4)
 - [DBPlan ist a Fhem modul, which enables Fhem to handle public traffic timetables fpr given routes](https://github.com/jowiemann/DBPlan-for-Fhem)
 - [ArtNet and DMX modules for FHEM](https://github.com/xusader/fhem-artdmx)
+- [Departure is a fhem modul, which creates readings for the next departures of a station.](https://github.com/uniqueck/fhem-departure)
