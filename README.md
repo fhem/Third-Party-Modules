@@ -67,3 +67,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Lidl WI-FI Steckdose SWS-A1 SilverCrest IAN 103043](https://forum.fhem.de/index.php/topic,38112.msg379733.html#msg379733)
 - [39_ZHK.pm - Steuerung Zentralheizung](https://forum.fhem.de/index.php/topic,24021.0.html)
 - [Signalbot (Integration für den Signal Messenger) via signal-cli](https://forum.fhem.de/index.php/topic,118370.0.html)
+- [Fing](https://github.com/supernova1963/fingService)
