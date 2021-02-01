@@ -54,3 +54,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [MagentaTV](https://www.rp-dev.de/fhem/magentatv/controls_magentatv.txt) &middot; [Forum](https://forum.fhem.de/index.php/topic,118358.msg1127751.html#msg1127751)
 - [Alternative für 73_PRESENCE](https://forum.fhem.de/index.php/topic,117007.msg1113644.html#msg1113644)
 - [FHEM module to control Acer beamers via RS232](https://github.com/mwllgr/fhem-acer-beamer-rs232)
+- [FHEM module for the Waterkotte Resümat CD4](https://github.com/mwllgr/fhem-waterkotte-resuemat-cd4)
