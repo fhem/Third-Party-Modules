@@ -49,3 +49,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [FireTV is used to remote control a Amazon FireTV device](https://github.com/nesges/Fhem-Modules/blob/master/FHEM/98_FireTV.pm)
 - [Blitzer von www.verkehrslage.de anzeigen](https://github.com/bismosa/FHEM/blob/master/FHEM/98_Blitzer.pm)
 - [Attribute und Readings von gewählten Geräten vergleichen](https://github.com/bismosa/FHEM/blob/master/FHEM/98_Compare.pm)
+- [Erweitert die Heizkörpersteuerung MAX um eine genauere Einstellmöglichkeit](https://github.com/bismosa/FHEM/blob/master/FHEM/98_MAX_Temperature.pm)
