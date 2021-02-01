@@ -39,3 +39,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Modul für Wifi-Radios mit Frontier Silicon Chipsatz](https://github.com/mumpitzstuff/fhem-SIRD) &middot; [Forum](https://forum.fhem.de/index.php/topic,79168.0.html)
 - [57_GCALVIEW Google Kalender Viewer (+Abfall Kalender)](https://github.com/mumpitzstuff/fhem-GCALVIEW) &middot; [Forum](https://forum.fhem.de/index.php/topic,77502.0.html)
 - [APCUPSD - Abfrage von USV-Daten über www.apcupsd.com](https://forum.fhem.de/index.php/topic,38382.0.html)
+- [39_DLCD.pm - kleines Hilfsmodul um Datenzeilen für serial LCD vorzubereiten v2.0](https://forum.fhem.de/index.php/topic,24519.0.html)
