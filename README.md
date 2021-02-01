@@ -55,6 +55,7 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Alternative für 73_PRESENCE](https://forum.fhem.de/index.php/topic,117007.msg1113644.html#msg1113644)
 - [FHEM module to control Acer beamers via RS232](https://github.com/mwllgr/fhem-acer-beamer-rs232)
 - [FHEM module for the Waterkotte Resümat CD4](https://github.com/mwllgr/fhem-waterkotte-resuemat-cd4)
+- [Waterkotte Wärmepumpe mit Resümat CD4 Steuerung](https://github.com/T0RST3N/fhem-waterkotte-cd4)
 - [DBPlan ist a Fhem modul, which enables Fhem to handle public traffic timetables fpr given routes](https://github.com/jowiemann/DBPlan-for-Fhem)
 - [ArtNet and DMX modules for FHEM](https://github.com/xusader/fhem-artdmx)
 - [Departure is a fhem modul, which creates readings for the next departures of a station.](https://github.com/uniqueck/fhem-departure)
