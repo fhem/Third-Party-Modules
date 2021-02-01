@@ -65,3 +65,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Worx Landroid-S Module for FHEM SmartHome. Compatible with Worx Landroid S/M/L Models](https://github.com/axelmohnen/fhem-landroid-s)
 - [linux usb hid input modul](https://forum.fhem.de/index.php/topic,36257.0.html)
 - [Lidl WI-FI Steckdose SWS-A1 SilverCrest IAN 103043](https://forum.fhem.de/index.php/topic,38112.msg379733.html#msg379733)
+- [39_ZHK.pm - Steuerung Zentralheizung](https://forum.fhem.de/index.php/topic,24021.0.html)
