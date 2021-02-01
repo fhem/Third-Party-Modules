@@ -63,3 +63,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [IPIO88](https://forum.fhem.de/index.php/topic,7865.msg53501.html#msg53501)
 - [iTunes / Apple TV](https://forum.fhem.de/index.php/topic,11830.0.html)
 - [Worx Landroid-S Module for FHEM SmartHome. Compatible with Worx Landroid S/M/L Models](https://github.com/axelmohnen/fhem-landroid-s)
+- [linux usb hid input modul](https://forum.fhem.de/index.php/topic,36257.0.html)
