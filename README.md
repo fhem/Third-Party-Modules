@@ -51,3 +51,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Attribute und Readings von gewählten Geräten vergleichen](https://github.com/bismosa/FHEM/blob/master/FHEM/98_Compare.pm)
 - [Erweitert die Heizkörpersteuerung MAX um eine genauere Einstellmöglichkeit](https://github.com/bismosa/FHEM/blob/master/FHEM/98_MAX_Temperature.pm)
 - [EntertainTV - Modul zum steuern eines MR400](https://www.rp-dev.de/fhem/entertaintv/controls_entertaintv.txt) &middot; [Forum](https://forum.fhem.de/index.php/topic,101311.0.html)
+- [MagentaTV](https://www.rp-dev.de/fhem/magentatv/controls_magentatv.txt) &middot; [Forum](https://forum.fhem.de/index.php/topic,118358.msg1127751.html#msg1127751)
