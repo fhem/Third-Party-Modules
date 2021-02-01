@@ -43,3 +43,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Modul zur Abfragen eines MBus Netzwerks](https://forum.fhem.de/index.php/topic,45212.0.html)
 - [BleTagBattery - Update batteryLevel for all BLE tags](https://github.com/mumpitzstuff/fhem-BleTagBattery)
 - [Alternative zu 98_average](https://github.com/mumpitzstuff/fhem-average)
+- [ParrotFlowerPower - Plant Sensor](https://github.com/mumpitzstuff/fhem-ParrotFlowerPower)
