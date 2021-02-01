@@ -69,3 +69,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [39_ZHK.pm - Steuerung Zentralheizung](https://forum.fhem.de/index.php/topic,24021.0.html)
 - [Signalbot (Integration für den Signal Messenger) via signal-cli](https://forum.fhem.de/index.php/topic,118370.0.html)
 - [Fing](https://github.com/supernova1963/fingService)
+- [XiaomiSmartHome Gateway](https://github.com/T0RST3N/fhem-XiaomiSmartHome)
