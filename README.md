@@ -74,3 +74,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [FHEM Module to integrate your Home Connect household appliances](https://github.com/sw-home/FHEM-HomeConnect)
 - [FHEM Module to integrate the MPP Solar / Axpert PIP Hybrid Solar Inverters](https://github.com/sw-home/FHEM-PIP)
 - [Get readings from the Bluetooth Smart BMS from https://www.lithiumbatterypcb.com/ in FHEM](https://github.com/sw-home/FHEM-BluetoothSmartBMS)
+- [Minimize your carbon footprint by connecting FHEM to the CO2 Signal](https://github.com/sw-home/FHEM-CO2Signal)
