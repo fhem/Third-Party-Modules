@@ -72,3 +72,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [XiaomiSmartHome Gateway](https://github.com/T0RST3N/fhem-XiaomiSmartHome)
 - [Monitor and control your Tesla vehicles in the FHEM smart home environment](https://github.com/sw-home/FHEM-Tesla)
 - [FHEM Module to integrate your Home Connect household appliances](https://github.com/sw-home/FHEM-HomeConnect)
+- [FHEM Module to integrate the MPP Solar / Axpert PIP Hybrid Solar Inverters](https://github.com/sw-home/FHEM-PIP)
