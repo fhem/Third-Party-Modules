@@ -73,3 +73,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 1. [Get readings from the Bluetooth Smart BMS from https://www.lithiumbatterypcb.com/ in FHEM](https://github.com/sw-home/FHEM-BluetoothSmartBMS)
 1. [Minimize your carbon footprint by connecting FHEM to the CO2 Signal](https://github.com/sw-home/FHEM-CO2Signal)
 1. [FHEM Module and firmware for controlling WS2812b LED stripes](https://github.com/sw-home/FHEM-LEDStripe)
+1. [98_mypowerrouter.pm (Ersatz für Cloudservice mypowerrouter.com)](https://forum.fhem.de/index.php/topic,118419.0)
