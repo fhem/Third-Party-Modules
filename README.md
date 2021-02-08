@@ -73,3 +73,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 - [Monitor and control your Tesla vehicles in the FHEM smart home environment](https://github.com/sw-home/FHEM-Tesla)
 - [FHEM Module to integrate your Home Connect household appliances](https://github.com/sw-home/FHEM-HomeConnect)
 - [FHEM Module to integrate the MPP Solar / Axpert PIP Hybrid Solar Inverters](https://github.com/sw-home/FHEM-PIP)
+- [Get readings from the Bluetooth Smart BMS from https://www.lithiumbatterypcb.com/ in FHEM](https://github.com/sw-home/FHEM-BluetoothSmartBMS)
