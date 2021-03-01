@@ -75,3 +75,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 1. [FHEM Module and firmware for controlling WS2812b LED stripes](https://github.com/sw-home/FHEM-LEDStripe)
 1. [98_mypowerrouter.pm (Ersatz für Cloudservice mypowerrouter.com)](https://forum.fhem.de/index.php/topic,118419.0)
 1. [Volkszähler](https://github.com/bgewehr/fhem/blob/master/FHEM/23_VOLKSZAEHLER.pm)
+1. [JSONREADINGS](https://github.com/bgewehr/fhem/blob/master/FHEM/70_JSONREADINGS.pm) &middot; Alternative zu JsonMod
