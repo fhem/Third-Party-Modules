@@ -77,3 +77,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 1. [Volkszähler](https://github.com/bgewehr/fhem/blob/master/FHEM/23_VOLKSZAEHLER.pm)
 1. [JSONREADINGS](https://github.com/bgewehr/fhem/blob/master/FHEM/70_JSONREADINGS.pm) &middot; Alternative zu JsonMod
 1. [Unifi Protect](https://forum.fhem.de/index.php?topic=108715.0)
+1. [Grohe ONDUS Geräte (Sense, Sense Guard)](https://github.com/J0EK3R/fhem-grohe-ondus)
