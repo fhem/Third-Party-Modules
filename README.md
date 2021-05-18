@@ -81,3 +81,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 1. [go-ECharger](https://github.com/LuRhe/fhem-46_GoECharger)
 1. [FHEM Tablet UI](https://github.com/knowthelist/fhem-tablet-ui)
 1. [ESCVP21 Epson Projektoren](https://forum.fhem.de/index.php/topic,13097.0)
+1. [Solar Ladegeräten des Herstellers EPEVER](https://forum.fhem.de/index.php/topic,111967.0/topicseen.html)
