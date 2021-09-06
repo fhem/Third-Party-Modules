@@ -84,3 +84,4 @@ Jeder, der ein FHEM-Modul geschrieben hat, ist eingeladen, dieser Organisation b
 1. [Solar Ladegeräten des Herstellers EPEVER](https://forum.fhem.de/index.php/topic,111967.0/topicseen.html)
 1. [KEBA KeContact P20 Wallbox](https://forum.fhem.de/index.php/topic,44869.0/topicseen.html)
 1. [Pool Controller](https://forum.fhem.de/index.php/topic,23129.0/topicseen.html)
+1. [Apple Weather](https://forum.fhem.de/index.php/topic,89578.0)
